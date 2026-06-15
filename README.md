@@ -1,1 +1,5 @@
-# python-summer-training
+Name: [malak saed hasan assi]
+University ID: [12504274]
+Major: [CAP-علم حاسوب في سوق العمل]
+why I joined this program: [أريد أن أطور مهاراتي في كتابة الاكواد وأتعلم اساسيات تطوير المواقع والتطبيقات وذلك لأنني مبتدئة واسعى لتطوير نفسي ]
+My goal after finishing this program: [متابعة تطوير نفسي في هذا المجال ومواكبة كل ما هو جديد وأتمنى ان اكون قادرة على أن اجعل غيري يستفيد مما تعلمت وان اكون جزء سوق العمل ]
